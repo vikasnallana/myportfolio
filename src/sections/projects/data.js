@@ -4,17 +4,17 @@
       title: "Ai Voice Assistant",
       description: 
       [
-        "Developed a virtual assistant using Python to perform tasks through voice commands.",
+        "Developed a voice assistant to perform tasks through voice commands.",
         "Demonstrated proficiency in Python libraries like Speech recognition, pyttsx3 and API interactions.",
         "Implemented speech recognition for user interaction and text-to-speech for responses.",
         "Natural Language Processing (potentially through Gemini API)."
       ],
       
-      tech_stack: ["Python","GEMINI API"],
+      tech_stack: ["Python","GEMINI API","Javascript","React"],
 
 
 
-      //github_url: "https://github.com/ashishnallana/AgriConnect",
+      github_url: "https://github.com/vikasnallana/aivoiceasisstant",
       demo_url: "",
     },
 
