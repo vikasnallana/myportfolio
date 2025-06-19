@@ -3,7 +3,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/ashishnallana/portfolio.git
+  https://github.com/vikasnallana/myportfolio.git
 ```
 
 Go to the project directory
