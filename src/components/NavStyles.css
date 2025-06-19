@@ -1,0 +1,9 @@
+.nav_bar {
+    z-index: 9999;
+}
+
+.nav_bar .text-vertical {
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+  }
+  
