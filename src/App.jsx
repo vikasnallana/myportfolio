@@ -29,7 +29,7 @@ function App() {
               RESUME 📄
             </h1>
             <a
-              href="https://vikasnallana.github.io/vikasnallanaresume/VIKASNALLANA.pdf"
+              href="https://drive.google.com/file/d/1KwpXJ66OqS58XAIuNAr4Maj190jQCOrq/view"
               target="_blank"
               className="bg-green-500 p-3 px-5 rounded-full font-bold relative"
             >
