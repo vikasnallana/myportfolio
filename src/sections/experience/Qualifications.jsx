@@ -24,7 +24,7 @@ const workData = [
   {
     title: "Virtual Internship",
     company: "Eduskills Foundation",
-    duration: "June 2025-present",
+    duration: "April - June 2025",
   },
 
 ];
