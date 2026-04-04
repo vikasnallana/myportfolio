@@ -17,28 +17,28 @@
       github_url: "https://github.com/vikasnallana/aivoiceasisstant",
       demo_url: "",
     },
+    
+    {
+      img: "https://tse3.mm.bing.net/th/id/OIP.-TVi_DYsOiBXpHeGx_WRuwHaC9?rs=1&pid=ImgDetMain&o=7&rm=3",
+      title: "Student Management System",
+      description: 
+      [
+        "Built a Student Management System using Streamlit and MySQL supporting full CRUD operations.",
+        "Implemented validation, search, and section-wise filtering with a clean, interactive UI.",
+        "Designed a dashboard with data visualization for better insights and user experience.",
+        
+      ],
+      
+      tech_stack: ["Python","Streamlit","MySQL"],
+
+
+
+      github_url: "https://github.com/vikasnallana/student_management",
+      demo_url: "https://drive.google.com/file/d/1gVz-5aNqVWK3sQ6iEhUASxqyg0n6TPOl/view?usp=sharing",
+    },
 
 
 
 
-
-    //{
-      //img: "https://ashishnallana.github.io/portfolio/ecofriends.png",
-      //title: "Eco-friends",
-      //description:
-      //  "A full-stack application for people interested in enviroment to engage and network.",
-      //tech_stack: ["React", "ExpressJs", "MongoDB"],
-      //github_url: "https://github.com/ashishnallana/eco-friends",
-     // demo_url: "https://ecofriends-beta.vercel.app/",
-    //},
-    //{
-     // img: "https://ashishnallana.github.io/portfolio/messagingapp.jpg",
-     // title: "Realtime Messaging Web application",
-     // description:
-     //   "An app where users can purchase online therapy sessions and chat with their therapists.",
-     // tech_stack: ["React", "Firebase", "ExpressJs", "MongoDB", "SocketIo"],
-     // github_url: "https://github.com/ashishnallana/whatsapp_clone_server",
-     // demo_url: "",
-    //},
   ];
 
