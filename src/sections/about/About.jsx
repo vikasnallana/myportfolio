@@ -14,26 +14,17 @@ function About() {
         style={{ objectFit: "cover" }}
       />
       <p data-aos="fade-right">
-        Hello! I'm Vikas Nallana, a full-stack developer based in
-        Visakhapatnam, India. My love for computers and technology started in my
-        childhood, and I've always been curious about what I could create with
-        them. Now, I have the skills and knowledge to bring my ideas to life,
-        and I'm proud to be a developer.
+       Hello! I'm Vikas Nallana, a passionate Data Analyst and aspiring Data Engineer based in Visakhapatnam, India. I have a strong interest in working with data, extracting insights, and building data-driven solutions to solve real-world problems.
       </p>
       <br />
       <p data-aos="fade-left">
-        I'm currently pursuing a BTech in Computer Science (AIML) at Raghu Engineering College.
-        This journey has been both
-        challenging and rewarding, allowing me to grow and develop my expertise
-        in the tech world. I am passionate about what I do and excited to
-        continue exploring new and innovative projects in web development.
+        I have completed my BTech in Computer Science (AIML), where I developed a solid foundation in data analysis, Python, and database management. During my academic journey, I gained hands-on experience in working with data, performing analysis, and understanding end-to-end data workflows.
       </p>
       <br />
       <p data-aos="fade-right">
-        Working collaboratively within a team towards a shared objective has
-        been an incredibly rewarding and unique experience for me. I am eager to
-        continue exploring exciting projects in the future, with a particular
-        interest in full-stack development.
+        I am particularly enthusiastic about transforming raw data into meaningful insights and continuously improving my skills in analytics, data engineering, and visualization. I enjoy working on projects that involve data processing, problem-solving, and decision-making.
+
+I am confident in using tools and technologies such as Python, SQL, Pandas, and data visualization libraries to analyze and interpret data effectively.
       </p>
       <br />
       {/* techs */}
