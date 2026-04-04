@@ -43,6 +43,20 @@ export const stackList = [
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg",
     name: "VS Code",
   },
-  
-  
+    {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg",
+    name: "Streamlit",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg",
+    name: "Matplotlib",
+  },
+  {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg",
+    name: "Pandas",
+  },
+   {
+    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg",
+    name: "NumPy",
+  },
 ];
