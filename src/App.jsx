@@ -29,7 +29,7 @@ function App() {
               RESUME 📄
             </h1>
             <a
-              href="https://drive.google.com/file/d/1hAxCO2-b_MHXsVZMomtHpIKuko2jO9CR/view?usp=sharing"
+              href="https://drive.google.com/file/d/1D5LGWqH0OIJ_JNOgarCu6-dOgAnulRhp/view?usp=sharing"
               target="_blank"
               className="bg-green-500 p-3 px-5 rounded-full font-bold relative"
             >
